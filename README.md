@@ -2,7 +2,7 @@
 
 Project developed for the Software Engineering course, Computer Science program at UDESC (Universidade do Estado de Santa Catarina). Implements the backend of a vehicle fleet management system, with business rules for refueling, maintenance, vehicle status control, and cost indicator calculation.
 
-**Authors:** Uriel Pacheco de Souza and Kelwin
+**Authors:** Uriel Pacheco de Souza and [Kelwin Efrain Bagnhuk da Silva](https://www.linkedin.com/in/kelwin-efrain-bagnhuk-da-silva-4a9331407/)
 
 ## Table of Contents
 
